@@ -1,4 +1,6 @@
 __author__ = 'Jerry Li'
+#not sure about the docstring __author__
+
 import math
 #from 600851475143 to 1, decrement
 for i in range(int(math.sqrt(600851475143)),1,-1):
