@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 '''
 Since we can only move to the right and down starting from the top left corner, 
 there will be 40 steps in a 20 * 20 grid to reach to the bottom right corner.
