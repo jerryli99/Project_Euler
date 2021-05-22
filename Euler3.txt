@@ -1,5 +1,5 @@
-__author__ = 'Jerry Li'
-#not sure about the docstring __author__
+#__author__ = 'Jerry Li'
+
 
 import math
 #from 600851475143 to 1, decrement
