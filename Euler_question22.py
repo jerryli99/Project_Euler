@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 line = open("Euler_question22_names.txt", "r")
 
 # use dictionary to store letter values
