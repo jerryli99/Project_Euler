@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 count = 0
 for num in range(1, 1000000):
    if num > 1:
