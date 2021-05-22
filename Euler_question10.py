@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 def isPrime(n):
     for i in range(2, int(n ** 0.5) + 1):
         # number = num1 * num2; if number is prime,
