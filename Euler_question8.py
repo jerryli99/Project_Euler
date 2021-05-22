@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 
 file = open("Euler_question8_1000_digits.txt", "r")
 number = file.read().replace("\n", "")
