@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 
 # In order to find the nth fibonacci number, we can use Binet's formula
 goldenRatio = (1 + 5 ** 0.5) / 2
