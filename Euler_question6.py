@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 sum1 = 0
 sum2 = 0
 for i in range (1, 101):
