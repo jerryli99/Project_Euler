@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 # since a set does not contain duplicate items,
 # we can add the numbers to the set
 temp = set()
