@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 num = 0
 
 def two_to_the_nth_power(power):
