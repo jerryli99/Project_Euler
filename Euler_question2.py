@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 a, b = 1, 1
 sum = 0
 while a <= 4000000:
