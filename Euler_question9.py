@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 sum = 1000
 for a in range(1, 1001):
     for b in range(1, 1001):
