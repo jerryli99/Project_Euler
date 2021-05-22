@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 filePath = '100numbers_50digit.txt'
 line = open(filePath, 'r')
 nums = [sum(int(i) for i in line)]
