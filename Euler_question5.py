@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 import math
 
 smallestCommonMultiple = 1
