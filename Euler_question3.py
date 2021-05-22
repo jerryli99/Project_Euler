@@ -1,4 +1,4 @@
-__author__ = 'Jerry Li'
+#__author__ = 'Jerry Li'
 number = 600851475143
 incrementNumber = 2
 while number != 1:
